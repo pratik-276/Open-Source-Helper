@@ -1,5 +1,4 @@
-# FORMAT:-
+## FORMAT:-
 
-<Serial number of contribution>    <Name>    <Any social media id, maybe Github, LinkedIn or anything else>
 
 #1    Pratik Mukherjee    https://github.com/pratik-276
